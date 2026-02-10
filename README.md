@@ -8,15 +8,12 @@
 
 This project is designed to showcase advanced SQL querying techniques through the analysis of over **1 million rows of Apple retail sales data**. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally.
 
-By tackling a variety of questions, from basic to complex, this project demonstrates the ability to write sophisticated SQL queries that extract valuable insights from large datasets.
-
-This project is ideal for data analysts looking to enhance their SQL skills by working with large-scale data and solving real-world business problems.
 
 ---
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
+![ERD](https://github.com/banamalipradhan012/apple-retail-sales-sql-project-Analyzing-millions-of-sales-data/blob/main/ERD/apple_sales_ERD.png)
 
 
 ---
