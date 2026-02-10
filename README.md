@@ -1,6 +1,6 @@
 # Apple Retail Sales SQL Project – Analyzing Millions of Sales Rows
 
-![Apple Retail](cover photo/apple_sales_cover_photo.jpg)
+![Apple Retail](https://github.com/banamalipradhan012/apple-retail-sales-sql-project-Analyzing-millions-of-sales-data/blob/main/cover%20photo/apple_sales_cover_photo.jpg)
 
 ---
 
