@@ -109,5 +109,11 @@ This project focuses on developing and showcasing:
 
 - **Size**: 1M+ sales records  
 - **Time Period**: Multiple years  
-- **Coverage**: Apple retail stores across multiple countries  
+- **Coverage**: Apple retail stores across multiple countries
 
+
+
+## Author
+**Banamali Pradhan** — Aspiring Data Analyst  
+Transitioning from Pharmaceutical Industry to Data Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
